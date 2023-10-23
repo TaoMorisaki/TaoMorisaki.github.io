@@ -1,18 +1,13 @@
 $ cat index.md
 Tao Morisaki
+
+##Bio
+
+## Publication
+
+- 査読付き論文誌/Journal
+- 査読付き国際会議/Internatinal Conference 
+- 国内会議/Domestic Conference (in Japan)
  
-## 取得資格
- 
-- 基本情報技術者
-- 応用情報技術者
-- ネットワークスペシャリスト
- 
-## 語学スキル
- 
-- 英検 2級
- 
-## プロジェクト経験
- 
-- 2010年7月 ～ Pythonによる画像認識システムの開発 PG
-- 2013年2月 ～ PHPによる社内管理システムの改修 設計＆PG
-- 2019年4月 ～ PHP、JavascriptによるECシステムの開発 設計
+## Grants
+-JST ACT-X
