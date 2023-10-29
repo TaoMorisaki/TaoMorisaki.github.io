@@ -1,5 +1,6 @@
 # Bio
 2023年に博士(科学)を取得後、NTT コミュニケーション科学基礎研究所 (CS研)にて「触れた/触れられた感覚」である「触覚」を研究しています。特に最近は、集束超音波を用いた非接触な触覚提示や、超音波で駆動するパッシブ触覚デバイスについて研究、発表しています。
+
 Tao Morisaki received Ph.D. degree in 2023 from the Department of Complexity Science and Engineering, The University of Tokyo, Japan. He is currently a Researcher with NTT Communication Science Laboratories. His research interests include haptics, ultrasound midair haptics, and human-computer interaction. 
 
 # Experience/職歴
