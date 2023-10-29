@@ -1,15 +1,18 @@
 # Bio
+2023年に博士(科学)を取得後、NTT コミュニケーション科学基礎研究所 (CS研)にて「触れた/触れられた感覚」である「触覚」を研究しています。特に最近は、集束超音波を用いた非接触な触覚提示や、超音波で駆動するパッシブ触覚デバイスについて研究、発表しています。
 Tao Morisaki received Ph.D. degree in 2023 from the Department of Complexity Science and Engineering, The University of Tokyo, Japan. He is currently a Researcher with NTT Communication Science Laboratories. His research interests include haptics, ultrasound midair haptics, and human-computer interaction. 
 
-# Profile
+# Experience/職歴
 - Apr. 2023 -           NTT コミュニケーション科学基礎研究所 研究員
 - Apr. 2021 –	Mar. 2023 日本学術振興会特別研究員 (DC2)
+
+# Education/学歴
 - Mar. 2020 –	Mar. 2023 東京大学大学院 新領域創成科学研究科 複雑理工学専攻 博士課程
 - Apr. 2018 – Mar. 2020 東京大学大学院 新領域創成科学研究科 複雑理工学専攻 修士課程
 - Apr. 2016 – Mar. 2018 久留米工業高等専門学校 専攻科 機械・電気システム工学専攻
 - Apr. 2011 – Mar. 2016 久留米工業高等専門学校 電気電子工学科
 
-# Award 
+# Award/受賞
  1. 2022年　Honorable Mention of AsiaHaptics 2022 Tokyo Satellite Best Demonstration Award. (Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda)
  1. 2022年　NEDO TCP 2021最終審査会 審査員特別賞（チーム名：HaptoCloud, 神垣 貴晶，鈴木 颯，松林 篤，森崎 汰雄，篠田 裕之）
  1. 2021年　Best Student Demonstration Award, SIGGRAPH ASIA 2021 Emerging Technologies. (Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda)
@@ -22,17 +25,17 @@ Tao Morisaki received Ph.D. degree in 2023 from the Department of Complexity Sci
  1. 2016年　福祉機器コンテスト 学生部門 最終選考
  1. 2016年　National Instruments社 高専生向けNI myRIO組込システム開発コンテスト　最優秀賞
 
-## Grants
+## Grants/研究費
 -JST ACT-X
 
 # Publication
-## 査読付き論文誌/Journal
+## Journal/査読付き論文誌
  1. Jianyu Chen, Shun Suzuki, Tao Morisaki, Yutaro Toide, Masahiro Fujiwara, Yasutoshi Makino and Hiroyuki Shinoda, “Sound Pressure Field Reconstruction for Airborne Ultrasound Tactile Display Encountering Obstacles,” IEEE Transactions on Haptics, 2023. (Open Access, Early Access).
  1. Ryoya Onishi, Takaaki Kamigaki, Shun Suzuki, Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Two-Dimensional Measurement of Airborne Ultrasound Field Using Thermal Images,” Physical Review Applied 18, 044047, pp.1-6, Oct. 19, 2022.
  1. Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Non-Vibratory Pressure Sensation Produced by Ultrasound Focus Moving Laterally and Repetitively with Fine Spatial Step Width,” IEEE Transactions on Haptics, Volume 15, Issue 3, pp 441-450, Nov. 2021.
  1. Tao Morisaki, Ryoma Mori, Ryosuke Mori, Kohki Serizawa, Yasutoshi Makino, Yuta Itoh, Yuji Yamakawa, and Hiroyuki Shinoda, “Ultrasound-driven Curveball in Table Tennis: Human Activity Support via Noncontact Remote Object Manipulation,” Proceedings of the ACM on Human-Computer Interaction (PACM HCI journal), Volume 5, Issue ISS, Article No. 503, pp 1-20, Nov. 2021 (Acceptance rate: 29.9%, presented at ISS 2021, Lodz, Poland, Hybrid, Nov. 14-17).
 
-## 査読付き国際会議/Internatinal Conference
+## Internatinal Conference/査読付き国際会議
 ### Regular paper
  1. [Open Access] Zen Somei, Tao Morisaki, Yutaro Toide, Masahio Fujiwara, Yasutoshi Makino and Hiroyuki Shinoda, “Spatial Resolution of Mesoscopic Shapes Presented by Airborne Ultrasound,” International Conference on Human Haptic Sensing and Touch Enabled Computer Applications(Eurohaptics), pp 243-251, Hamburg, Germany, May 22-25, 2022 (Oral).
  1. [Open Access] Jianyu Chen, Shun Suzuki, Tao Morisaki, Yutaro Toide, Masahiro Fujiwara, Yasutoshi Makino and Hiroyuki Shinoda, “Sound Pressure Field Reconstruction for Ultrasound Phased Array by Linear Synthesis Scheme Optimization,” International Conference on Human Haptic Sensing and Touch Enabled Computer Applications(Eurohaptics), pp 147-154, Hamburg, Germany, May 22-25, 2022 (Poster).
@@ -43,7 +46,7 @@ Tao Morisaki received Ph.D. degree in 2023 from the Department of Complexity Sci
  1. Tao Morisaki, Shohei Miyabara, and Naohiro Koshiji, “Improvement of Immersion into a Virtual Game World: Using “Real Robot” as a Player Character,” Proc. International Conference on Industrial Application Engineering (ICIAE) 2018, pp.120-125, Naha, Japan, March 2018.
  1. Shohei Miyabara, Tao Morisaki and, Naohiro Koshiji, “Improvement of Immersion into a Virtual Game World: Using “Real Robot” as an Opponent’s Character,” Proc. International Conference on Industrial Application Engineering (ICIAE) 2018, pp. 126-132, Naha, Japan, March 2018.
 
-### Work in Progress / Demos
+### Work in Progress & Demos
  1. [Accepted] Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Ultrasound-Driven Passive Haptic Actuator based on Amplifying Radiation Force using Simple Lever Mechanism”, SIGGRAPH ASIA 2022, Emerging Technologies.
  1. [Accepted] Hanaho Motoyama, Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Touchable Cooled Graphics: Midair 3D Image with Noncontact Cooling
  1. Feedback using Ultrasound-Driven Mist Vaporization”, SIGGRAPH ASIA 2022, Emerging Technologies. Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Ultrasound-Driven Fingertip-Mounted Passive Haptic Device Using a Simple Lever Mechanism, ” AsiaHaptics 2022 Tokyo Satellite, pp 1-2, Nov. 12, Tokyo, Japan.
