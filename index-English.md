@@ -2,6 +2,9 @@
 layout: default-English
 ---
 
+# Contents
+- [Publication](./publication.html).
+
 # Bio
 Tao Morisaki received Ph.D. degree in 2023 from the Department of Complexity Science and Engineering, The University of Tokyo, Japan. He is currently a Researcher with NTT Communication Science Laboratories. His research interests include haptics, ultrasound midair haptics, and human-computer interaction. 
 
