@@ -1,5 +1,3 @@
-[Link to English page](./index_English.html).
-
 # Experience
 - Apr. 2023 -           NTT コミュニケーション科学基礎研究所 研究員
 - Apr. 2021 –	Mar. 2023 日本学術振興会特別研究員 (DC2)
