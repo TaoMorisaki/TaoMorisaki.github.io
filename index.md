@@ -24,7 +24,7 @@
  1. 2016年　福祉機器コンテスト 学生部門 最終選考
  1. 2016年　National Instruments社 高専生向けNI myRIO組込システム開発コンテスト　最優秀賞
 
-## Grants/研究費
+# Grants/研究費
 -JST ACT-X
 
 # Publication
