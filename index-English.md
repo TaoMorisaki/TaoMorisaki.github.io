@@ -1,5 +1,5 @@
 ---
-layout: default_English
+layout: default-English
 ---
 
 # Bio
