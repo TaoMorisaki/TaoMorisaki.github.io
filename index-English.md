@@ -3,20 +3,20 @@ layout: default-English
 ---
 
 # Contents
-- [Publication](./publication.html).
+- [**Publication**](./publication.html).
 
 # Bio
 Tao Morisaki received Ph.D. degree in 2023 from the Department of Complexity Science and Engineering, The University of Tokyo, Japan. He is currently a Researcher with NTT Communication Science Laboratories. His research interests include haptics, ultrasound midair haptics, and human-computer interaction. 
 
 # Experience
-- Apr. 2023 -           NTT コミュニケーション科学基礎研究所 研究員
-- Apr. 2021 –	Mar. 2023 日本学術振興会特別研究員 (DC2)
+- Apr. 2023 -             Researcher, NTT Communication Science Laboratories
+- Apr. 2021 –	Mar. 2023 Research Fellow (DC2), Japan Society for the Promotion of Science (JSPS) 
 
 # Education
-- Mar. 2020 –	Mar. 2023 東京大学大学院 新領域創成科学研究科 複雑理工学専攻 博士課程
-- Apr. 2018 – Mar. 2020 東京大学大学院 新領域創成科学研究科 複雑理工学専攻 修士課程
-- Apr. 2016 – Mar. 2018 久留米工業高等専門学校 専攻科 機械・電気システム工学専攻
-- Apr. 2011 – Mar. 2016 久留米工業高等専門学校 電気電子工学科
+- Mar. 2020 –	Mar. 2023 Doctoral program, Department of Complexity Science and Engineering, Graduate School of Frontier Sciences, The University of Tokyo 
+- Apr. 2018 – Mar. 2020 Master Couse, Department of Complexity Science and Engineering, Graduate School of Frontier Sciences, The University of Tokyo 
+- Apr. 2016 – Mar. 2018 Mechanical and Electrical Systems Engineering Advanced Course, National Institute of Technology, Kurume College, Advanced Engineering School 
+- Apr. 2011 – Mar. 2016 Department of Electrical and Electronics Engineering, National Institute of Technology, Kurume College 
 
 # Award
  1. 2022年　Honorable Mention of AsiaHaptics 2022 Tokyo Satellite Best Demonstration Award. (Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda)
