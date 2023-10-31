@@ -2,7 +2,15 @@
 layout: default
 ---
 
-# Contents
+###### Header 6
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+<!-- # Contents
 - [**業績**](./publication.html).
 
 # Bio 
@@ -51,4 +59,4 @@ layout: default
  1. 2017年　National Instruments社 高専生向けNI myRIO組込システム開発コンテスト　敢闘賞　(最終選考)
  1. 2016年　産業応用工学会 全国大会 学生賞 (宮原奨平, 森崎汰雄, 越地尚宏)
  1. 2016年　福祉機器コンテスト 学生部門 最終選考
- 1. 2016年　National Instruments社 高専生向けNI myRIO組込システム開発コンテスト　最優秀賞
+ 1. 2016年　National Instruments社 高専生向けNI myRIO組込システム開発コンテスト　最優秀賞 -->
