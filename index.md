@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Contents
+# [Contents](./publication.html)
 - [**業績**](./publication.html).
 
 # Bio 
