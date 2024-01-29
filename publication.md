@@ -23,9 +23,11 @@ layout: publication
  1. Shohei Miyabara, __Tao Morisaki__ and, Naohiro Koshiji, “Improvement of Immersion into a Virtual Game World: Using “Real Robot” as an Opponent’s Character,” Proc. International Conference on Industrial Application Engineering (ICIAE) 2018, pp. 126-132, Naha, Japan, March 2018.
 
 ### Work in Progress & Demos
- 1. [Accepted] __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Ultrasound-Driven Passive Haptic Actuator based on Amplifying Radiation Force using Simple Lever Mechanism”, SIGGRAPH ASIA 2022, Emerging Technologies.
- 1. [Accepted] Hanaho Motoyama, __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Touchable Cooled Graphics: Midair 3D Image with Noncontact Cooling
- 1. Feedback using Ultrasound-Driven Mist Vaporization”, SIGGRAPH ASIA 2022, Emerging Technologies. __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Ultrasound-Driven Fingertip-Mounted Passive Haptic Device Using a Simple Lever Mechanism, ” AsiaHaptics 2022 Tokyo Satellite, pp 1-2, Nov. 12, Tokyo, Japan.
+ 1. __Tao Morisaki__, Takaaki Kamigaki, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Airborne Ultrasound-Driven Passive Haptic Device Presenting Low-Frequency Vibration and Static Force,” IEEE World Haptics 2023, WIP.E1.8 (Work-in-Progress papers), July 10-13, 2023, Delft, the Netherlands.
+ 2. Hanaho Motoyama, __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Evaluation of Perceived Coldness of Non-Contact Cooling by Focused Ultrasound,” IEEE World Haptics 2023, WIP.E1.9 (Work-in-Progress papers), July 10-13, 2023, Delft, the Netherlands.
+ 3. __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda, “Ultrasound-Driven Passive Haptic Actuator Based on Amplifying Radiation Force Using Simple Lever Mechanism,” SIGGRAPH Asia 2022 Emerging Technologies, Article No. 11, pp. 1-2, 2022.
+ 1. Hanaho Motoyama, __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda, “Touchable Cooled Graphics: Midair 3D Image with Noncontact Cooling Feedback using Ultrasound-Driven Mist Vaporization,” SIGGRAPH Asia 2022 Emerging Technologies, Article No. 10, pp. 1-2, 2022.
+ 1. __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Ultrasound-Driven Fingertip-Mounted Passive Haptic Device Using a Simple Lever Mechanism, ” AsiaHaptics 2022 Tokyo Satellite, pp 1-2, Nov. 12, Tokyo, Japan.
  1. Hanaho Motoyama, __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Noncontact Cooling Sensation by Ultrasound-Driven Mist Vaporization with 3D Visual Feedback, ” AsiaHaptics 2022 Tokyo Satellite, pp 1-2, Nov. 12, Tokyo, Japan.
  1. Saya Mizutani, Shun Suzuki, Atsushi Matsubayashi, __Tao Morisaki__, Yutaro Toide, Masahiro Fujiwara, Yasutoshi Makino and Hiroyuki Shinoda, “Use of Multiple Frequencies of Ultrasound in Midair Haptic Stimulation,” International Conference on Human Haptic Sensing and Touch Enabled Computer Applications(Eurohaptics), WIP007(Work-in-Progress Papers), Hamburg, Germany, May 22-25, 2022 (Poster).
  1. [ACM DL] __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Midair Haptic-Optic Display with Multi-Tactile Texture based on Presenting Vibration and Pressure Sensation by Ultrasound”, SIGGRAPH ASIA 2021, Emerging Technologies, pp. 1-2, Tokyo, Japan, Dec. 14-17, 2021 (Acceptance rate: 41.3%).
@@ -38,7 +40,9 @@ layout: publication
  1. [PDF] __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Controlling Robot Vehicle Using Hand-Gesture with Mid-Air Haptic Feedback,” Asia Haptics 2018, Incheon, Korea, Nov. 14-16, 2018.
 
 ### 国内会議/Domestic Conference (in Japan)
- 1. [PDF] 森崎汰雄, 藤原 正浩, 牧野 泰才, 篠田 裕之, “テコ機構を用いた放射力増幅に基づく超音波駆動のパッシブ触覚デバイス,” 第27回日本バーチャルリアリティ学会大会, 3B2-4, 札幌市立大学 芸術の森キャンパス, 北海道, Sept. 12-14, 2022.
+ 1. __森崎汰雄__，”機械-熱刺激を独立に提示する超音波駆動パッシブ触覚デバイスの予備検討”，第28回日本バーチャルリアリティ学会大会，2A2-04，東京，Sep.，2023．
+ 2. 関口葵葉，荒川岳斗，__森崎汰雄__，神垣貴晶，牧野泰才，篠田裕之，”圧力増幅構造を用いた空中超音波による振動触覚提示”，第28回日本バーチャルリアリティ学会大会，2A2-08，東京，Sep.，2023．
+ 3. [PDF] 森崎汰雄, 藤原 正浩, 牧野 泰才, 篠田 裕之, “テコ機構を用いた放射力増幅に基づく超音波駆動のパッシブ触覚デバイス,” 第27回日本バーチャルリアリティ学会大会, 3B2-4, 札幌市立大学 芸術の森キャンパス, 北海道, Sept. 12-14, 2022.
  1. 加藤滉一, 森崎汰雄, 藤原正浩, 牧野泰才, 篠田裕之, “空中超音波を用いたエッジ感の非接触提示,” 第27回日本バーチャルリアリティ学会大会, 3B5-3, 札幌市立大学 芸術の森キャンパス, 北海道, Sept. 12-14, 2022.
  1. 本山花帆, 森崎汰雄, 藤原正浩, 牧野泰才, 篠田裕之, “空中超音波によるミスト気化を用いた接触冷感の非接触提示”, 第27回日本バーチャルリアリティ学会大会, 3B5-5, 札幌市立大学 芸術の森キャンパス, 北海道, Sep 12-14, 2022.
  1. 森崎汰雄, 藤原 正浩, 牧野 泰才, 篠田 裕之, “空中超音波焦点の周期走査による圧覚刺激の分布提示,” 第22回計測自動制御学会システムインテグレーション部門講演会論文集，pp.1926-1931，(オンライン開催), Dec. 15-17, 2021.
