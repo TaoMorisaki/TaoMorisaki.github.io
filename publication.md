@@ -4,7 +4,7 @@ layout: publication
 
 # Publication
 ## Journal/査読付き論文誌
- 1. __Tao Morisaki__, Takaaki Kamigaki, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “UltLever: Ultrasound-Driven Passive Haptic Actuator Based on Amplifying Radiation Force Using a Simple Lever Mechanism,” IEEE Transactions on Haptics, Jan. 2024, Accepted.
+ 1. __Tao Morisaki__, Takaaki Kamigaki, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “UltLever: Ultrasound-Driven Passive Haptic Actuator Based on Amplifying Radiation Force Using a Simple Lever Mechanism,” IEEE Transactions on Haptics, Jan. 2024, (Open Access, Early Access).
  1. __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Noncontact Haptic Rendering of Static Contact with Convex Surface Using Circular Movement of Ultrasound Focus on a Finger Pad,” IEEE Transactions on Haptics, Nov. 2023 (Open Access, Early Access). 
  1. Jianyu Chen, Shun Suzuki, __Tao Morisaki__, Yutaro Toide, Masahiro Fujiwara, Yasutoshi Makino and Hiroyuki Shinoda, “Sound Pressure Field Reconstruction for Airborne Ultrasound Tactile Display Encountering Obstacles,” IEEE Transactions on Haptics, 2023. (Open Access, Early Access).
  1. Ryoya Onishi, Takaaki Kamigaki, Shun Suzuki, __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Two-Dimensional Measurement of Airborne Ultrasound Field Using Thermal Images,” Physical Review Applied 18, 044047, pp.1-6, Oct. 19, 2022.
