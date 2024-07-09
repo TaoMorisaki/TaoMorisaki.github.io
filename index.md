@@ -32,5 +32,5 @@ layout: default
 | :--- | :--- |
 | 2024 | Best Paper Award 5 Nominees, Eurohaptics 2024 (Tao Morisaki, Yusuke Ujitoko) |
 | 2024 | Best Demo Award 8 Nominees, Eurohaptics 2024 (Tao Morisaki, Yasutoshi Makino, Hiroyuki Shinoda)|
-| 2022 |Honorable Mention of AsiaHaptics 2022 Tokyo Satellite Best Demonstration Award. (Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda)|
+
 
