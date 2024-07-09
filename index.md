@@ -32,7 +32,7 @@ layout: default
 |2024| Best Demo Award 8 Nominees, Eurohaptics 2024 (Tao Morisaki, Yasutoshi Makino, Hiroyuki Shinoda)|
 
 |Year|Award|
-| :--- | :---: |
+| :--- | :--- |
 | 2024 | Best Paper Award 5 Nominees, Eurohaptics 2024 (Tao Morisaki, Yusuke Ujitoko) |
 | 2024 | Best Demo Award 8 Nominees, Eurohaptics 2024 (Tao Morisaki, Yasutoshi Makino, Hiroyuki Shinoda)|
 
