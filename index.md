@@ -33,7 +33,7 @@ layout: default
 
 |Year|Award|
 | :--- | :---: |
-| 2024 | TD |
+| 2024 | Best Paper Award 5 Nominees, Eurohaptics 2024 (Tao Morisaki, Yusuke Ujitoko) |
 | 2024 | TD | 
 
 # 受賞
