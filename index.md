@@ -27,7 +27,13 @@ layout: default
 - 2018              情報処理推進機構 (IPA) 未踏人材発掘・育成事業
 - 2018 – 2022       東京大学 プロアクティブ環境学国際卓越大学院プログラム (採択率 31.25%)
 
+| TH 左寄せ | TH 中央寄せ | TH 右寄せ |
+| :--- | :---: | ---: |
+| TD | TD | TD |
+| TD | TD | TD |
+
 # 受賞
+
 |Year|Award|
 | :--- | :---: |
 | 2024 | Best Paper Award 5 Nominees, Eurohaptics 2024 (Tao Morisaki, Yusuke Ujitoko) |
