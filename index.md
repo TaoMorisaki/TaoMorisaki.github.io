@@ -35,8 +35,19 @@ layout: default
 # 受賞
 
 |Year|Award|
-| :--- | :---: |
+| :--- | :--- |
 | 2024 | Best Paper Award 5 Nominees, Eurohaptics 2024 (Tao Morisaki, Yusuke Ujitoko) |
 | 2024 | Best Demo Award 8 Nominees, Eurohaptics 2024 (Tao Morisaki, Yasutoshi Makino, Hiroyuki Shinoda)|
+| 2022 |Honorable Mention of AsiaHaptics 2022 Tokyo Satellite Best Demonstration Award. (Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda)|
+| 2022 | NEDO TCP 2021最終審査会 審査員特別賞（チーム名：HaptoCloud, 神垣 貴晶，鈴木 颯，松林 篤，森崎 汰雄，篠田 裕之）|
+| 2021 | Best Student Demonstration Award, SIGGRAPH ASIA 2021 Emerging Technologies. (Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda)|
+| 2021 | 第22回計測自動制御学会システムインテグレーション部門講演会優秀講演賞（曽明 然, 森崎汰雄, 砥出悠太郎, 藤原正浩, 牧野泰才, 篠田裕之）|
+| 2020 | 第21回計測自動制御学会システムインテグレーション部門講演会優秀講演賞 (小丹枝 涼哉, 森崎汰雄, 水谷 沙耶, 鈴木 颯, 神垣 貴晶, 藤原正浩, 牧野泰才, 篠田 裕之)|
+| 2020 | インタラクション2020 インタラクティブ発表賞 (一般投票) (森崎汰雄, 森涼馬, 森暸輔, 牧野泰才, 伊藤勇太, 山川雄司, 篠田裕之)|
+| 2018 | 電気学会 九州支部長賞|
+| 2017 | National Instruments社 高専生向けNI myRIO組込システム開発コンテスト　敢闘賞　(最終選考)|
+| 2016 | 産業応用工学会 全国大会 学生賞 (宮原奨平, 森崎汰雄, 越地尚宏)|
+| 2016 | 福祉機器コンテスト 学生部門 最終選考|
+| 2016 | National Instruments社 高専生向けNI myRIO組込システム開発コンテスト 最優秀賞|
 
 
