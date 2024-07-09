@@ -25,7 +25,11 @@ layout: default
 - 2021.10/1 – 2023  JST ACT-X リアル空間を強靭にするハードウェアの未来, 研究代表
 - 2021 – 2022       日本学術振興会 特別研究員奨励費 (DC2), 研究代表
 - 2018              情報処理推進機構 (IPA) 未踏人材発掘・育成事業
-- 2018 – 2022       東京大学 プロアクティブ環境学国際卓越大学院プログラム (採択率 31.25%)       
+- 2018 – 2022       東京大学 プロアクティブ環境学国際卓越大学院プログラム (採択率 31.25%)
+
+# 受賞
+|2024| Best Paper Award 5 Nominees, Eurohaptics 2024 (Tao Morisaki, Yusuke Ujitoko)|
+|2024| Best Demo Award 8 Nominees, Eurohaptics 2024 (Tao Morisaki, Yasutoshi Makino, Hiroyuki Shinoda)|
 
 # 受賞
  1. 2024 Best Paper Award 5 Nominees, Eurohaptics 2024 (Tao Morisaki, Yusuke Ujitoko)
