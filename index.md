@@ -2,10 +2,10 @@
 layout: default
 ---
 # Bio 
-2023年に博士(科学)を取得後、NTT コミュニケーション科学基礎研究所 (CS研)にて触覚を研究しています。特に最近は、集束超音波を用いた非接触な触覚提示や、超音波で駆動するパッシブ触覚デバイスについて研究しています。
+2023年に博士(科学)を取得後、[NTT コミュニケーション科学基礎研究所 (CS研)](https://www.rd.ntt/cs/team_project/human/interface/)にて触覚を研究しています。特に最近は、集束超音波を用いた非接触な触覚提示や、超音波で駆動するパッシブ触覚デバイスについて研究しています。
 
 # News
-- 2024.07.09. Eurohaptics 2024での発表がBest paper award 5 nominees (T. Morisaki & Y. Ujitoko)とBest demo award 8 nominees (T. Morisaki, Y. Makino, & H. Shinoda)に選出されました。
+- 2024.07.09. Eurohaptics 2024での発表が[Best paper award 5 nominees (T. Morisaki & Y. Ujitoko)とBest demo award 8 nominees (T. Morisaki, Y. Makino, & H. Shinoda)](https://eurohaptics.org/ehc2024/award/)に選出されました。
 - 2024.07.09. Eurohaptics 2024において口頭発表とデモ発表を行いました。
 - 2024.02.09. 超音波で駆動するパッシブ触覚デバイスの論文が[IEEE Transactions on Haptics](https://ieeexplore.ieee.org/document/10428111)に採録されました。
 
