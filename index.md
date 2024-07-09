@@ -27,15 +27,14 @@ layout: default
 - 2018              情報処理推進機構 (IPA) 未踏人材発掘・育成事業
 - 2018 – 2022       東京大学 プロアクティブ環境学国際卓越大学院プログラム (採択率 31.25%)
 
+
+
+# 受賞
 |Year|Award|
 | :--- | :--- |
 | 2024 | Best Paper Award 5 Nominees, Eurohaptics 2024 (Tao Morisaki, Yusuke Ujitoko) |
 | 2024 | Best Demo Award 8 Nominees, Eurohaptics 2024 (Tao Morisaki, Yasutoshi Makino, Hiroyuki Shinoda)|
-
-# 受賞
- 1. 2024 Best Paper Award 5 Nominees, Eurohaptics 2024 (Tao Morisaki, Yusuke Ujitoko)
- 1. 2024 Best Demo Award 8 Nominees, Eurohaptics 2024 (Tao Morisaki, Yasutoshi Makino, Hiroyuki Shinoda)
- 1. 2022 Honorable Mention of AsiaHaptics 2022 Tokyo Satellite Best Demonstration Award. (Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda)
+|2022|Honorable Mention of AsiaHaptics 2022 Tokyo Satellite Best Demonstration Award. (Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda)|
  1. 2022 NEDO TCP 2021最終審査会 審査員特別賞（チーム名：HaptoCloud, 神垣 貴晶，鈴木 颯，松林 篤，森崎 汰雄，篠田 裕之）
  1. 2021 Best Student Demonstration Award, SIGGRAPH ASIA 2021 Emerging Technologies. (Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda)
  1. 2021 第22回計測自動制御学会システムインテグレーション部門講演会優秀講演賞（曽明 然, 森崎汰雄, 砥出悠太郎, 藤原正浩, 牧野泰才, 篠田裕之）
