@@ -7,7 +7,7 @@ layout: default
 # News
 - 2024.07.09. Eurohaptics 2024での発表がBest paper award 5 nominees (T. Morisaki & Y. Ujitoko)とBest demo award 8 nominees (T. Morisaki, Y. Makino, & H. Shinoda)に選出されました。
 - 2024.07.09. Eurohaptics 2024において口頭発表とデモ発表を行いました。
-- 2024.02.09. 超音波で駆動するパッシブ触覚デバイスの論文がIEEE Transactions on Hapticsに採録されました。
+- 2024.02.09. 超音波で駆動するパッシブ触覚デバイスの論文がIEEE Transactions on Haptics(https://ieeexplore.ieee.org/document/10428111)に採録されました。
 
 # 職歴
 - 2023 Apr.              NTT コミュニケーション科学基礎研究所 研究員
