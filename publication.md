@@ -4,6 +4,7 @@ layout: publication
 
 # Publication
 ## Journal/査読付き論文誌
+ 1. Yusuke Ujitoko, __Tao Morisaki__, “Exploring Acceptable Weight Criteria for Finger-Worn Haptic Device Design,” IEEE Transactions on Haptics, Jun. 2025, Early Access. [\[Paper, Open Access\]](https://ieeexplore.ieee.org/document/11037560)
  1. __Tao Morisaki__, Takaaki Kamigaki, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “UltLever: Ultrasound-Driven Passive Haptic Actuator Based on Amplifying Radiation Force Using a Simple Lever Mechanism,” IEEE Transactions on Haptics, Jan. 2024, Early Access. [\[Paper, Open Access\]](https://ieeexplore.ieee.org/document/10428111)
  1. __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Noncontact Haptic Rendering of Static Contact with Convex Surface Using Circular Movement of Ultrasound Focus on a Finger Pad,” IEEE Transactions on Haptics, Nov. 2023, Early Access. [\[Paper, Open Access\]](https://ieeexplore.ieee.org/document/10339270) 
  1. Jianyu Chen, Shun Suzuki, __Tao Morisaki__, Yutaro Toide, Masahiro Fujiwara, Yasutoshi Makino and Hiroyuki Shinoda, “Sound Pressure Field Reconstruction for Airborne Ultrasound Tactile Display Encountering Obstacles,” IEEE Transactions on Haptics, Early Access, 2023. [\[Paper, Open Access\]](https://ieeexplore.ieee.org/document/10234563)
