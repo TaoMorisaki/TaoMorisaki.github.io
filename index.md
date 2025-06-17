@@ -8,8 +8,7 @@ layout: default
 
 |Date|Contents|
 | :--- | :--- |
-|2025.06.17.|受け入れ可能なウェアラブルデバイスの重さ基準を調べた共著論文(Y. Ujitoko and T. Morisaki)が[IEEE Transactions on Haptics](https://ieeexplore.ieee.org/document/11037560)に採録されました。
-Exploring Acceptable Weight Criteria for Finger-Worn Haptic Device Design|
+|2025.06.17.|受け入れ可能なウェアラブルデバイスの重さ基準を調べた共著論文が[IEEE Transactions on Haptics](https://ieeexplore.ieee.org/document/11037560)に採録されました。<br>　Y. Ujitoko and T. Morisaki, Exploring Acceptable Weight Criteria for Finger-Worn Haptic Device Design|
 |2025.05.21.|エッジと曲面の触感を提示できる、超音波で駆動する触覚デバイスの論文がIEEE World Hapticsに口頭発表として採択されました。7/11に発表を行います。|
 |2024.07.03.|Eurohaptics 2024での発表がBest paper award 5 nominees (T. Morisaki & Y. Ujitoko)とBest demo award 8 nominees (T. Morisaki, Y. Makino, & H. Shinoda)に選出されました。[\[Web\]](https://eurohaptics.org/ehc2024/award/)|
 |2024.07.03.|Eurohaptics 2024において口頭発表とデモ発表を行いました。|
