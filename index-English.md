@@ -8,8 +8,8 @@ Tao Morisaki received Ph.D. degree in 2023 from the Department of Complexity Sci
 
 |Date|Contents|
 | :--- | :--- |
-|2025.06.17.|New co-authored paper investigating the acceptable weight criteria for finger-worn haptic device has been accepted in [IEEE Transactions on Haptics](https://ieeexplore.ieee.org/document/11037560)<br>Y. Ujitoko & T. Morisaki, "Exploring Acceptable Weight Criteria for Finger-Worn Haptic Device Design"|
-|2025.05.21.|エッジと曲面の触感を提示できる、超音波で駆動する触覚デバイスの論文が[IEEE World Haptics](https://2025.worldhaptics.org/)に口頭発表として採択されました。7/11に発表を行います。<br>T. Morisaki et al., "Ultrasound-Driven Wearable Haptic Display for Rendering Edges and Curved Surfaces"|
+|2025.06.17.|New co-authored paper investigating the acceptable weight criteria for finger-worn haptic device has been accepted for [IEEE Transactions on Haptics](https://ieeexplore.ieee.org/document/11037560)<br>Y. Ujitoko & T. Morisaki, "Exploring Acceptable Weight Criteria for Finger-Worn Haptic Device Design"|
+|2025.05.21.|New paper on ultrasonic-driven haptic device that can present edges and curve sensation has been accepted for [IEEE World Haptics 2025](https://2025.worldhaptics.org/) as oral. We will present this work on July 11.<br>T. Morisaki et al., "Ultrasound-Driven Wearable Haptic Display for Rendering Edges and Curved Surfaces"|
 |2024.07.03.|My presentation at Eurohaptics 2024 has been chosen for Best Paper Award 5 nominees (T. Morisaki & Y. Ujitoko) and Best Demo Award 8 nominees (T. Morisaki, Y. Makino, & H. Shinoda)! [\[Web\]](https://eurohaptics.org/ehc2024/award/)|
 |2024.07.03.|I presented my full paper (oral) and demonstration at Eurohaptics 2024.|
 |2024.02.03.|UltLever: Ultrasound-driven passive haptic actuator has been published in [IEEE Transactions on Haptics](https://ieeexplore.ieee.org/document/10428111).|
