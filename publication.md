@@ -26,11 +26,15 @@ layout: publication
  1. Shohei Miyabara, __Tao Morisaki__ and, Naohiro Koshiji, “Improvement of Immersion into a Virtual Game World: Using “Real Robot” as an Opponent’s Character,” Proc. International Conference on Industrial Application Engineering (ICIAE) 2018, pp. 126-132, Naha, Japan, March 2018.
 
 ### Work in Progress & Demos
- 1. Yusuke Ujitoko, __Tao Morisaki__, "Effect of Weight and Position of Wearable Haptic Device on Typing Performance", Eurohaptics 2024, Work-in-Progress, 2024. 
- 2. __Tao Morisaki__, "Preliminary Evaluation of Ultrasound-Driven Thermal-Mechanical Passive Haptic Display using Acoustic Material and Lever Mechanism", IEEE Haptics Symposium, Work-in-Progress, 2024. 
- 3. __Tao Morisaki__, Takaaki Kamigaki, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Airborne Ultrasound-Driven Passive Haptic Device Presenting Low-Frequency Vibration and Static Force,” IEEE World Haptics 2023, WIP.E1.8 (Work-in-Progress papers), July 10-13, 2023, Delft, the Netherlands.
- 4. Hanaho Motoyama, __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Evaluation of Perceived Coldness of Non-Contact Cooling by Focused Ultrasound,” IEEE World Haptics 2023, WIP.E1.9 (Work-in-Progress papers), July 10-13, 2023, Delft, the Netherlands.
- 5. __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda, “Ultrasound-Driven Passive Haptic Actuator Based on Amplifying Radiation Force Using Simple Lever Mechanism,” SIGGRAPH Asia 2022 Emerging Technologies, Article No. 11, pp. 1-2, 2022. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3550471.3558401?casa_token=nAnUwN91XbcAAAAA:SS7YjETkYIGU9dbpBu4FSyfSv7-D6_BGP76JlIgwOOMof2WBd9Gx4MEv-8qPIIoLVoBuhRueqSB2S6o)
+ 1.Koichi Kato, __Tao Morisaki__, Shun Suzuki, Yasutoshi Makino, and Hiroyuki Shinoda, “Perceivable Minimum Shift of Ultrasound Tactile Stimulus Position on a Fingerpad,” Proc. of SICE Annual Conference 2024, pp. 1051-1053, Aug. 28-30, 2024.
+ 1.Koichi Kato, __Tao Morisaki__, Shun Suzuki, Yasutoshi Makino, and Hiroyuki Shinoda, "Edge shape sensation presented in a noncontact manner using airborne ultrasound," Asia Haptics 2024, Sunway, Malaysia, Oct. 28-30, 2024.
+ 1.Aoba Sekiguchi, __Tao Morisaki__, Takaaki Kamigaki, Yasutoshi Makino and Hiroyuki Shinoda, “Haptic Reproduction of Curved Surface and Edge by Controlling the Contact Position between the Disk and the Finger Using Airborne Ultrasound,” Asia Haptics 2024, Sunway, Malaysia, Oct. 28-30, 2024.
+ 1.__Tao Morisaki__, Yasutoshi Makino, Horoyuki Shinoda, "Midair 3D Texture Display Using Focused Ultrasound Based on Superimposing Pressure Sensation and Vibration Sensation", Eurohaptics 2024, Demos, 2024.
+ 2. Yusuke Ujitoko, __Tao Morisaki__, "Effect of Weight and Position of Wearable Haptic Device on Typing Performance", Eurohaptics 2024, Work-in-Progress, 2024. 
+ 3. __Tao Morisaki__, "Preliminary Evaluation of Ultrasound-Driven Thermal-Mechanical Passive Haptic Display using Acoustic Material and Lever Mechanism", IEEE Haptics Symposium, Work-in-Progress, 2024. 
+ 4. __Tao Morisaki__, Takaaki Kamigaki, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Airborne Ultrasound-Driven Passive Haptic Device Presenting Low-Frequency Vibration and Static Force,” IEEE World Haptics 2023, WIP.E1.8 (Work-in-Progress papers), July 10-13, 2023, Delft, the Netherlands.
+ 5. Hanaho Motoyama, __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Evaluation of Perceived Coldness of Non-Contact Cooling by Focused Ultrasound,” IEEE World Haptics 2023, WIP.E1.9 (Work-in-Progress papers), July 10-13, 2023, Delft, the Netherlands.
+ 6. __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda, “Ultrasound-Driven Passive Haptic Actuator Based on Amplifying Radiation Force Using Simple Lever Mechanism,” SIGGRAPH Asia 2022 Emerging Technologies, Article No. 11, pp. 1-2, 2022. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3550471.3558401?casa_token=nAnUwN91XbcAAAAA:SS7YjETkYIGU9dbpBu4FSyfSv7-D6_BGP76JlIgwOOMof2WBd9Gx4MEv-8qPIIoLVoBuhRueqSB2S6o)
  1. Hanaho Motoyama, __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda, “Touchable Cooled Graphics: Midair 3D Image with Noncontact Cooling Feedback using Ultrasound-Driven Mist Vaporization,” SIGGRAPH Asia 2022 Emerging Technologies, Article No. 10, pp. 1-2, 2022.
  1. __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Ultrasound-Driven Fingertip-Mounted Passive Haptic Device Using a Simple Lever Mechanism, ” AsiaHaptics 2022 Tokyo Satellite, pp 1-2, Nov. 12, Tokyo, Japan.
  1. Hanaho Motoyama, __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Noncontact Cooling Sensation by Ultrasound-Driven Mist Vaporization with 3D Visual Feedback, ” AsiaHaptics 2022 Tokyo Satellite, pp 1-2, Nov. 12, Tokyo, Japan.
@@ -44,10 +48,18 @@ layout: publication
  1. __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Tactile Perception Similarity Between Physically Continuous Stimulation and Discrete Point Stimulation,” IEEE World Haptics Conference 2019, WP1P.19 (Work-in-Progress Papers), 9-12 July, Tokyo, Japan, 2019 (Acceptance rate: 83%).
  1. __Tao Morisaki__, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Controlling Robot Vehicle Using Hand-Gesture with Mid-Air Haptic Feedback,” Asia Haptics 2018, Incheon, Korea, Nov. 14-16, 2018.
 
+### 招待講演&論文/Invited Talk & Paper
+1. __森崎汰雄__, "集束超音波による触覚提示の最前線――非接触な触感再現とパッシブ触覚デバイス――, " 日本音響学会誌, 若手の若手による若手のための超音波研究最前線, 80 巻 (2024) 9 号, 2024.
+1. __森崎汰雄__, "空中超音波で遠隔駆動するパッシブ触覚デバイス," ハプティクス研究会展示OS, ハプティック・フューチャー・ギャラリー, 第29回日本バーチャルリアリティ学会大会, 名古屋, Sep.11-13, 2024.
+
 ### 国内会議/Domestic Conference (in Japan)
- 1. __森崎汰雄__，”機械-熱刺激を独立に提示する超音波駆動パッシブ触覚デバイスの予備検討”，第28回日本バーチャルリアリティ学会大会，2A2-04，東京，Sep.，2023．
- 2. 関口葵葉，荒川岳斗，__森崎汰雄__，神垣貴晶，牧野泰才，篠田裕之，”圧力増幅構造を用いた空中超音波による振動触覚提示”，第28回日本バーチャルリアリティ学会大会，2A2-08，東京，Sep.，2023．
- 3. [PDF] 森崎汰雄, 藤原 正浩, 牧野 泰才, 篠田 裕之, “テコ機構を用いた放射力増幅に基づく超音波駆動のパッシブ触覚デバイス,” 第27回日本バーチャルリアリティ学会大会, 3B2-4, 札幌市立大学 芸術の森キャンパス, 北海道, Sept. 12-14, 2022.
+ 1. __森崎汰雄__, 牧野泰才，篠田裕之, "空中超音波による振動と圧覚の同時提示に基づく触感再現," 2G-31, 第29回日本バーチャルリアリティ学会大会, 名古屋, Sep.11-13, 2024.
+ 2. 張 楚瑶, __森崎 汰雄__, 牧野 泰才, 篠田 裕之, "Investigating the Impact of Airborne Ultrasound Tactile Feedback on Perceived Intensity of Pseudo-stiffness," 2C1-12, 第29回日本バーチャルリアリティ学会大会, 名古屋, Sep.11-13, 2024.
+ 1.加藤滉一，__森崎汰雄__，鈴木颯，牧野泰才，篠田裕之, “Perceivable MinimumShift：指腹上で知覚可能な超音波触覚刺激の最小移動幅“, 2C2-11, 第29回日本バーチャルリアリティ学会大会, 名古屋, Sep.11-13, 2024.
+ 1.関口葵葉，__森崎汰雄__，神垣貴晶，牧野泰才，篠田裕之，”空中超音波を用いた円盤-指腹の接触位置制御による曲面とエッジの触覚再現”，2C1-09，第29回日本バーチャルリアリティ学会大会，名古屋，Sep.11-13，2024．
+ 3. __森崎汰雄__，”機械-熱刺激を独立に提示する超音波駆動パッシブ触覚デバイスの予備検討”，第28回日本バーチャルリアリティ学会大会，2A2-04，東京，Sep.，2023．
+ 4. 関口葵葉，荒川岳斗，__森崎汰雄__，神垣貴晶，牧野泰才，篠田裕之，”圧力増幅構造を用いた空中超音波による振動触覚提示”，第28回日本バーチャルリアリティ学会大会，2A2-08，東京，Sep.，2023．
+ 5. 森崎汰雄, 藤原 正浩, 牧野 泰才, 篠田 裕之, “テコ機構を用いた放射力増幅に基づく超音波駆動のパッシブ触覚デバイス,” 第27回日本バーチャルリアリティ学会大会, 3B2-4, 札幌市立大学 芸術の森キャンパス, 北海道, Sept. 12-14, 2022.
  1. 加藤滉一, 森崎汰雄, 藤原正浩, 牧野泰才, 篠田裕之, “空中超音波を用いたエッジ感の非接触提示,” 第27回日本バーチャルリアリティ学会大会, 3B5-3, 札幌市立大学 芸術の森キャンパス, 北海道, Sept. 12-14, 2022.
  1. 本山花帆, 森崎汰雄, 藤原正浩, 牧野泰才, 篠田裕之, “空中超音波によるミスト気化を用いた接触冷感の非接触提示”, 第27回日本バーチャルリアリティ学会大会, 3B5-5, 札幌市立大学 芸術の森キャンパス, 北海道, Sep 12-14, 2022.
  1. 森崎汰雄, 藤原 正浩, 牧野 泰才, 篠田 裕之, “空中超音波焦点の周期走査による圧覚刺激の分布提示,” 第22回計測自動制御学会システムインテグレーション部門講演会論文集，pp.1926-1931，(オンライン開催), Dec. 15-17, 2021.
@@ -69,8 +81,8 @@ layout: publication
  1. 森崎汰雄, 藤原正浩, 牧野泰才, 篠田裕之, “超音波のLateral ModulationとAmplitude Modulation 刺激によるファントムセンセーションの生起とその特性比較,” 第24回ハプティクス研究会, PI-20-024, (web開催に変更) 東北学院大学 多賀城キャンパス, 宮城, Mar. 2-3, 2020.
  1. 渡邊一正, 森崎汰雄, “触覚フィードバックによる自己主体感向上に基づく騒音環境下におけるギターの演奏支援システム,” 第24回ハプティクス研究会, PI-20-028, (web開催に変更) 東北学院大学 多賀城キャンパス, 宮城, Mar. 2-3, 2020.
  1. 森涼馬, 森崎汰雄, 森暸輔, 牧野泰才, 伊藤勇太, 山川雄司, 篠田裕之, “Hopping-Pong:集束超音波による卓球玉の軌道の遠隔制御,” 第20回計測自動制御学会システムインテグレーション部門講演会論文集 (SI2019), pp. 1701-1706, サンポート高松, 香川, Dec. 12-14, 2019.
- 1. [PDF] 陳剣宇, 森崎汰雄, 王安晟 藤原正浩, 牧野泰才, 篠田裕之,　“Prediction of Ping-Pong Ball Trajectory Based on Neural Network Using Player’s Body Motions,” 第24回バーチャルリアリティ学会大会, 6D-09, 東京大学 本郷キャンパス, 東京, Sep. 11-13, 2019.
- 1. [PDF] 森崎汰雄, 藤原正浩, 牧野泰才, 篠田裕之, “非接触触覚提示による離散点刺激と連続刺激の類似度比較,” 第24回バーチャルリアリティ学会大会, 4A-05, 東京大学 本郷キャンパス, 東京, Sep. 11-13, 2019.
+ 1. 陳剣宇, 森崎汰雄, 王安晟 藤原正浩, 牧野泰才, 篠田裕之,　“Prediction of Ping-Pong Ball Trajectory Based on Neural Network Using Player’s Body Motions,” 第24回バーチャルリアリティ学会大会, 6D-09, 東京大学 本郷キャンパス, 東京, Sep. 11-13, 2019.
+ 1. 森崎汰雄, 藤原正浩, 牧野泰才, 篠田裕之, “非接触触覚提示による離散点刺激と連続刺激の類似度比較,” 第24回バーチャルリアリティ学会大会, 4A-05, 東京大学 本郷キャンパス, 東京, Sep. 11-13, 2019.
  1. 森崎汰雄, 藤原正浩, 牧野泰才, 篠田裕之, “空中触覚フィードバックを用いた遠隔ロボットの移動制御,” 第23回バーチャルリアリティ学会大会, 仙台, Sep. 2018.
  1. 森崎汰雄, 越地尚宏, “和音認識システムの開発,” 第27回九州沖縄地区高専フォーラム, 福岡, Dec. 2017.
  1. 中村省太, 森崎汰雄, 宮原奨平, 越地尚宏, “ウェアラブルなペットロボを利用した 睡眠障害への対策に関する研究,“ 産業応用工学会　全国大会2017, pp. 38-39, 福岡, Sep. 2017
