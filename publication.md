@@ -26,10 +26,10 @@ layout: publication
  1. Shohei Miyabara, __Tao Morisaki__ and, Naohiro Koshiji, “Improvement of Immersion into a Virtual Game World: Using “Real Robot” as an Opponent’s Character,” Proc. International Conference on Industrial Application Engineering (ICIAE) 2018, pp. 126-132, Naha, Japan, March 2018.
 
 ### Work in Progress & Demos
- 1.Koichi Kato, __Tao Morisaki__, Shun Suzuki, Yasutoshi Makino, and Hiroyuki Shinoda, “Perceivable Minimum Shift of Ultrasound Tactile Stimulus Position on a Fingerpad,” Proc. of SICE Annual Conference 2024, pp. 1051-1053, Aug. 28-30, 2024.
- 1.Koichi Kato, __Tao Morisaki__, Shun Suzuki, Yasutoshi Makino, and Hiroyuki Shinoda, "Edge shape sensation presented in a noncontact manner using airborne ultrasound," Asia Haptics 2024, Sunway, Malaysia, Oct. 28-30, 2024.
- 1.Aoba Sekiguchi, __Tao Morisaki__, Takaaki Kamigaki, Yasutoshi Makino and Hiroyuki Shinoda, “Haptic Reproduction of Curved Surface and Edge by Controlling the Contact Position between the Disk and the Finger Using Airborne Ultrasound,” Asia Haptics 2024, Sunway, Malaysia, Oct. 28-30, 2024.
- 1.__Tao Morisaki__, Yasutoshi Makino, Horoyuki Shinoda, "Midair 3D Texture Display Using Focused Ultrasound Based on Superimposing Pressure Sensation and Vibration Sensation", Eurohaptics 2024, Demos, 2024.
+ 1. Koichi Kato, __Tao Morisaki__, Shun Suzuki, Yasutoshi Makino, and Hiroyuki Shinoda, “Perceivable Minimum Shift of Ultrasound Tactile Stimulus Position on a Fingerpad,” Proc. of SICE Annual Conference 2024, pp. 1051-1053, Aug. 28-30, 2024.
+ 1. Koichi Kato, __Tao Morisaki__, Shun Suzuki, Yasutoshi Makino, and Hiroyuki Shinoda, "Edge shape sensation presented in a noncontact manner using airborne ultrasound," Asia Haptics 2024, Sunway, Malaysia, Oct. 28-30, 2024.
+ 1. Aoba Sekiguchi, __Tao Morisaki__, Takaaki Kamigaki, Yasutoshi Makino and Hiroyuki Shinoda, “Haptic Reproduction of Curved Surface and Edge by Controlling the Contact Position between the Disk and the Finger Using Airborne Ultrasound,” Asia Haptics 2024, Sunway, Malaysia, Oct. 28-30, 2024.
+ 1. __Tao Morisaki__, Yasutoshi Makino, Horoyuki Shinoda, "Midair 3D Texture Display Using Focused Ultrasound Based on Superimposing Pressure Sensation and Vibration Sensation", Eurohaptics 2024, Demos, 2024.
  2. Yusuke Ujitoko, __Tao Morisaki__, "Effect of Weight and Position of Wearable Haptic Device on Typing Performance", Eurohaptics 2024, Work-in-Progress, 2024. 
  3. __Tao Morisaki__, "Preliminary Evaluation of Ultrasound-Driven Thermal-Mechanical Passive Haptic Display using Acoustic Material and Lever Mechanism", IEEE Haptics Symposium, Work-in-Progress, 2024. 
  4. __Tao Morisaki__, Takaaki Kamigaki, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Airborne Ultrasound-Driven Passive Haptic Device Presenting Low-Frequency Vibration and Static Force,” IEEE World Haptics 2023, WIP.E1.8 (Work-in-Progress papers), July 10-13, 2023, Delft, the Netherlands.
@@ -55,8 +55,8 @@ layout: publication
 ### 国内会議/Domestic Conference (in Japan)
  1. __森崎汰雄__, 牧野泰才，篠田裕之, "空中超音波による振動と圧覚の同時提示に基づく触感再現," 2G-31, 第29回日本バーチャルリアリティ学会大会, 名古屋, Sep.11-13, 2024.
  2. 張 楚瑶, __森崎 汰雄__, 牧野 泰才, 篠田 裕之, "Investigating the Impact of Airborne Ultrasound Tactile Feedback on Perceived Intensity of Pseudo-stiffness," 2C1-12, 第29回日本バーチャルリアリティ学会大会, 名古屋, Sep.11-13, 2024.
- 1.加藤滉一，__森崎汰雄__，鈴木颯，牧野泰才，篠田裕之, “Perceivable MinimumShift：指腹上で知覚可能な超音波触覚刺激の最小移動幅“, 2C2-11, 第29回日本バーチャルリアリティ学会大会, 名古屋, Sep.11-13, 2024.
- 1.関口葵葉，__森崎汰雄__，神垣貴晶，牧野泰才，篠田裕之，”空中超音波を用いた円盤-指腹の接触位置制御による曲面とエッジの触覚再現”，2C1-09，第29回日本バーチャルリアリティ学会大会，名古屋，Sep.11-13，2024．
+ 1. 加藤滉一，__森崎汰雄__，鈴木颯，牧野泰才，篠田裕之, “Perceivable MinimumShift：指腹上で知覚可能な超音波触覚刺激の最小移動幅“, 2C2-11, 第29回日本バーチャルリアリティ学会大会, 名古屋, Sep.11-13, 2024.
+ 1. 関口葵葉，__森崎汰雄__，神垣貴晶，牧野泰才，篠田裕之，”空中超音波を用いた円盤-指腹の接触位置制御による曲面とエッジの触覚再現”，2C1-09，第29回日本バーチャルリアリティ学会大会，名古屋，Sep.11-13，2024．
  3. __森崎汰雄__，”機械-熱刺激を独立に提示する超音波駆動パッシブ触覚デバイスの予備検討”，第28回日本バーチャルリアリティ学会大会，2A2-04，東京，Sep.，2023．
  4. 関口葵葉，荒川岳斗，__森崎汰雄__，神垣貴晶，牧野泰才，篠田裕之，”圧力増幅構造を用いた空中超音波による振動触覚提示”，第28回日本バーチャルリアリティ学会大会，2A2-08，東京，Sep.，2023．
  5. 森崎汰雄, 藤原 正浩, 牧野 泰才, 篠田 裕之, “テコ機構を用いた放射力増幅に基づく超音波駆動のパッシブ触覚デバイス,” 第27回日本バーチャルリアリティ学会大会, 3B2-4, 札幌市立大学 芸術の森キャンパス, 北海道, Sept. 12-14, 2022.
