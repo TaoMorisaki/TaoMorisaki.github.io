@@ -18,7 +18,7 @@ Tao Morisaki received Ph.D. degree in 2023 from the Department of Complexity Sci
 
 |Year|Name|
 | :--- | :--- |
-|2023 Apr.| Researcher, NTT Communication Science Laboratories|
+|2023 Apr.| Researcher, Communication Science Laboratories, NTT, Inc.|
 |2021 Apr.  - 2023 Mar.|Research Fellow (DC2), Japan Society for the Promotion of Science (JSPS)|
 
 # Education
