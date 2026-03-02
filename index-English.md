@@ -2,12 +2,13 @@
 layout: default-English
 ---
 # Bio
-Tao Morisaki received Ph.D. degree in 2023 from the Department of Complexity Science and Engineering, The University of Tokyo, Japan. He is currently a Researcher with NTT Communication Science Laboratories. His research interests include haptics, ultrasound midair haptics, and human-computer interaction. 
+Tao Morisaki is currently a Researcher with NTT Communication Science Laboratories. His research interests include haptics, ultrasound midair haptics, and human-computer interaction. 
 
 # News
 
 |Date|Contents|
 | :--- | :--- |
+|2025.12.30.|My research project, midair haptic texture creation, was reported on Vaugandy Researcher Corner, NHK World Japan "Science View". ([archive 20:05~](https://www3.nhk.or.jp/nhkworld/en/shows/2015353/)) 
 |2025.06.17.|New co-authored paper investigating the acceptable weight criteria for finger-worn haptic device has been accepted for [IEEE Transactions on Haptics](https://ieeexplore.ieee.org/document/11037560)<br>Y. Ujitoko & T. Morisaki, "Exploring Acceptable Weight Criteria for Finger-Worn Haptic Device Design"|
 |2025.05.21.|New paper on ultrasonic-driven haptic device that can present edges and curve sensation has been accepted for [IEEE World Haptics 2025](https://2025.worldhaptics.org/) as oral. We will present this work on July 11.<br>T. Morisaki et al., "Ultrasound-Driven Wearable Haptic Display for Rendering Edges and Curved Surfaces"|
 |2024.07.03.|My presentation at Eurohaptics 2024 has been chosen for Best Paper Award 5 nominees (T. Morisaki & Y. Ujitoko) and Best Demo Award 8 nominees (T. Morisaki, Y. Makino, & H. Shinoda)! [\[Web\]](https://eurohaptics.org/ehc2024/award/)|
@@ -34,8 +35,9 @@ Tao Morisaki received Ph.D. degree in 2023 from the Department of Complexity Sci
 
 |Year|Name|
 | :--- | :--- |
+|2025.04 – 2027.03| JSPS Grant in Aid for Early-Career Scientists|
 | 2022.8.1 – 2023 | JST START|
-| 2021.10.1 – 2023| JST ACT-X  |
+| 2021.10.1 – 2023| JST ACT-X|
 |2021 – 2022|DC2, Japan Society for the Promotion of Science|
 
 # Award
