@@ -9,6 +9,7 @@ layout: default
 |Date|Contents|
 | :--- | :--- |
 |2025.12.30.|NHK World Japan 「Science View」のvaugandy reearcherコーナーで、超音波による触感再現の研究を取材していただきました。([アーカイブ 20:05~](https://www3.nhk.or.jp/nhkworld/en/shows/2015353/)) 
+|2025.12.18.|NTT 先端総合研究所 所長表彰を受賞しました。 
 |2025.09.13.|日本テレビ「シューイチ」のまじっすかというコーナーで、超音波による触感再現の研究を取材していただきました。 
 |2025.06.17.|受け入れ可能なウェアラブルデバイスの重さ基準を調べた共著論文が[IEEE Transactions on Haptics](https://ieeexplore.ieee.org/document/11037560)に採録されました。<br>Y. Ujitoko & T. Morisaki, "Exploring Acceptable Weight Criteria for Finger-Worn Haptic Device Design"|
 |2025.05.21.|エッジと曲面の触感を提示できる、超音波で駆動する触覚デバイスの論文が[IEEE World Haptics](https://2025.worldhaptics.org/)に口頭発表として採択されました。7/11に発表を行います。<br>T. Morisaki et al., "Ultrasound-Driven Wearable Haptic Display for Rendering Edges and Curved Surfaces"|
@@ -49,6 +50,7 @@ layout: default
 
 |Year|Award|
 | :--- | :--- |
+| 2025 | NTT先端総合研究所 所長表彰 報道特別賞, NTT株式会社 
 | 2024 | Best Paper Award 5 Nominees, Eurohaptics 2024 (Tao Morisaki, Yusuke Ujitoko) |
 | 2024 | Best Demo Award 8 Nominees, Eurohaptics 2024 (Tao Morisaki, Yasutoshi Makino, Hiroyuki Shinoda)|
 | 2022 |Honorable Mention of AsiaHaptics 2022 Tokyo Satellite Best Demonstration Award. (Tao Morisaki, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda)|
