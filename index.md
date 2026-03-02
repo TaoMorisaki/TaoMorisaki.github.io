@@ -2,7 +2,7 @@
 layout: default
 ---
 # Bio 
-2023年に博士(科学)を取得後、[NTT コミュニケーション科学基礎研究所 (CS研)](https://www.rd.ntt/cs/team_project/human/interface/)にて触覚を研究しています。特に最近は、集束超音波を用いた非接触な触覚提示や、超音波で駆動するパッシブ触覚デバイスについて研究しています。
+、[NTT コミュニケーション科学基礎研究所 (CS研)](https://www.rd.ntt/cs/team_project/human/interface/)にて触覚を研究しています。特に最近は、強力な超音波が生む圧力感覚の研究、超音波で駆動するパッシブ触覚デバイスについて研究しています。
 
 # News
 
@@ -10,6 +10,7 @@ layout: default
 | :--- | :--- |
 |2025.06.17.|受け入れ可能なウェアラブルデバイスの重さ基準を調べた共著論文が[IEEE Transactions on Haptics](https://ieeexplore.ieee.org/document/11037560)に採録されました。<br>Y. Ujitoko & T. Morisaki, "Exploring Acceptable Weight Criteria for Finger-Worn Haptic Device Design"|
 |2025.05.21.|エッジと曲面の触感を提示できる、超音波で駆動する触覚デバイスの論文が[IEEE World Haptics](https://2025.worldhaptics.org/)に口頭発表として採択されました。7/11に発表を行います。<br>T. Morisaki et al., "Ultrasound-Driven Wearable Haptic Display for Rendering Edges and Curved Surfaces"|
+|2025.05.13.|超音波で強い圧感を生み、多様な触感を生む手法についてNTTより[プレスリリース](https://group.ntt/jp/newsrelease/2025/05/13/250513b.html)が出ました。
 |2024.07.03.|Eurohaptics 2024での発表がBest paper award 5 nominees (T. Morisaki & Y. Ujitoko)とBest demo award 8 nominees (T. Morisaki, Y. Makino, & H. Shinoda)に選出されました。[\[Web\]](https://eurohaptics.org/ehc2024/award/)|
 |2024.07.03.|Eurohaptics 2024において口頭発表とデモ発表を行いました。|
 |2024.02.03.|超音波で駆動するパッシブ触覚デバイスの論文が[IEEE Transactions on Haptics](https://ieeexplore.ieee.org/document/10428111)に採録されました。|
