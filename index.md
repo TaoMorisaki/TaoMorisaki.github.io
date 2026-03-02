@@ -2,7 +2,7 @@
 layout: default
 ---
 # Bio 
-、[NTT コミュニケーション科学基礎研究所 (CS研)](https://www.rd.ntt/cs/team_project/human/interface/)にて触覚を研究しています。特に最近は、強力な超音波が生む圧力感覚の研究、超音波で駆動するパッシブ触覚デバイスについて研究しています。
+[NTT コミュニケーション科学基礎研究所 (CS研)](https://www.rd.ntt/cs/team_project/human/interface/)にて触覚を研究しています。特に最近は、強力な超音波が生む圧力感覚の研究、超音波で駆動するパッシブ触覚デバイスについて研究しています。
 
 # News
 
