@@ -8,6 +8,7 @@ layout: default
 
 |Date|Contents|
 | :--- | :--- |
+|2025.12.30.|第30回VR学会で発表した以下の研究が、学術奨励賞を受賞しました。森崎汰雄, 宇治土公雄介, “空中超音波における圧覚増強の要因分析: 振動分布面積と位相差の効果”.
 |2025.12.30.|NHK World Japan 「Science View」のvaugandy reearcherコーナーで、超音波による触感再現の研究を取材していただきました。([アーカイブ 20:05~](https://www3.nhk.or.jp/nhkworld/en/shows/2015353/)) 
 |2025.12.18.|NTT 先端総合研究所 所長表彰を受賞しました。 
 |2025.09.13.|日本テレビ「シューイチ」のまじっすかというコーナーで、超音波による触感再現の研究を取材していただきました。 
@@ -50,6 +51,7 @@ layout: default
 
 |Year|Award|
 | :--- | :--- |
+| 2026 | 第30回日本バーチャルリアリティ学会大会 学術奨励賞 (森崎汰雄, 宇治土公雄介, “空中超音波における圧覚増強の要因分析: 振動分布面積と位相差の効果”)
 | 2025 | NTT先端総合研究所 所長表彰 報道特別賞, NTT株式会社 
 | 2024 | Best Paper Award 5 Nominees, Eurohaptics 2024 (Tao Morisaki, Yusuke Ujitoko) |
 | 2024 | Best Demo Award 8 Nominees, Eurohaptics 2024 (Tao Morisaki, Yasutoshi Makino, Hiroyuki Shinoda)|
