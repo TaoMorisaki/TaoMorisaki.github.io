@@ -38,7 +38,7 @@ Tao Morisaki is currently a Researcher with NTT Communication Science Laboratori
 
 |Year|Name|
 | :--- | :--- |
-| 2026.10 – 2031.03 | JST PREST, PI|
+| 2026.10 – 2030.03 | JST PREST, PI|
 |2025.04 – 2027.03| JSPS Grant in Aid for Early-Career Scientists, PI|
 | 2022.8.1 – 2023 | JST START, Co-PI|
 | 2021.10.1 – 2023| JST ACT-X, PI|
