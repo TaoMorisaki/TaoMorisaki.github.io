@@ -8,6 +8,7 @@ Tao Morisaki is currently a Researcher with NTT Communication Science Laboratori
 
 |Date|Contents|
 | :--- | :--- |
+|2026.09.18| My resarch proposal has been accepted for External Stimulus Sensing, JST PRESET. 
 |2026.4.01.| I was promoted to Associate Distinguished Researcher, NTT Communication Science Laboratories.
 |2025.12.30.|My research project, midair haptic texture creation, was reported on Vaugandy Researcher Corner, NHK World Japan "Science View". ([archive 20:05~](https://www3.nhk.or.jp/nhkworld/en/shows/2015353/)) 
 |2025.06.17.|New co-authored paper investigating the acceptable weight criteria for finger-worn haptic device has been accepted for [IEEE Transactions on Haptics](https://ieeexplore.ieee.org/document/11037560)<br>Y. Ujitoko & T. Morisaki, "Exploring Acceptable Weight Criteria for Finger-Worn Haptic Device Design"|
@@ -29,7 +30,7 @@ Tao Morisaki is currently a Researcher with NTT Communication Science Laboratori
 |Year|Name|
 | :--- | :--- |
 |2020 Mar. – 2023 Mar.|Doctoral program, Department of Complexity Science and Engineering, Graduate School of Frontier Sciences, The University of Tokyo|
-|2018 Apr. – 2020 Mar.|Master Couse, Department of Complexity Science and Engineering, Graduate School of Frontier Sciences, The University of Tokyo|
+|2018 Apr. – 2020 Mar.|Master Course, Department of Complexity Science and Engineering, Graduate School of Frontier Sciences, The University of Tokyo|
 |2016 Apr. – 2018 Mar.|Mechanical and Electrical Systems Engineering Advanced Course, National Institute of Technology, Kurume College, Advanced Engineering School|
 |2011 Apr. – 2016 Mar.|Department of Electrical and Electronics Engineering, National Institute of Technology, Kurume College|
 
@@ -37,10 +38,11 @@ Tao Morisaki is currently a Researcher with NTT Communication Science Laboratori
 
 |Year|Name|
 | :--- | :--- |
-|2025.04 – 2027.03| JSPS Grant in Aid for Early-Career Scientists|
-| 2022.8.1 – 2023 | JST START|
-| 2021.10.1 – 2023| JST ACT-X|
-|2021 – 2022|DC2, Japan Society for the Promotion of Science|
+| 2026.10 – 2031.03 | JST PREST, PI|
+|2025.04 – 2027.03| JSPS Grant in Aid for Early-Career Scientists, PI|
+| 2022.8.1 – 2023 | JST START, Co-PI|
+| 2021.10.1 – 2023| JST ACT-X, PI|
+|2021 – 2022|DC2, Japan Society for the Promotion of Science, PI|
 
 # Award
 
