@@ -28,7 +28,9 @@ layout: publication
  1. Shohei Miyabara, __Tao Morisaki__ and, Naohiro Koshiji, “Improvement of Immersion into a Virtual Game World: Using “Real Robot” as an Opponent’s Character,” Proc. International Conference on Industrial Application Engineering (ICIAE) 2018, pp. 126-132, Naha, Japan, March 2018.
 
 ### Work in Progress & Demos
- 1. __Tao Morisaki__, Yusuke Ujitoko, and Sota Iwabuchi, "Ultrasound Stimulus Condition Evoking Stronger Pressure Sensation: Phase-Shifted Multi-Point Low-Frequency Vibrations," Eurohaptics 2026, Demos, DS8, 1p, July 6-9, 2026. 
+ 1.__Tao Morisaki__, Aoba Sekiguchi, Takaaki Kamigaki, Yasutoshi Makino, Hiroyuki Shinoda, "Demonstration of Macro-Scale Uneven Surface Rendering with Ultrasound-Driven Wearable Attachment", Asiahaptics, 105, Nov. 17--20, 2026.
+ 1. Sho Yokota, __Tao Moriaki__, Shun Suzuki, Yasutoshi Makino, Hiroyuki Shinoda, "Distant Virtual Object Manipulation Using\\ Muscle Tension-Based Virtual Arm Extension", Asiahaptics, 87, Nov. 17--20, 2026.
+ 2. __Tao Morisaki__, Yusuke Ujitoko, and Sota Iwabuchi, "Ultrasound Stimulus Condition Evoking Stronger Pressure Sensation: Phase-Shifted Multi-Point Low-Frequency Vibrations," Eurohaptics 2026, Demos, DS8, 1p, July 6-9, 2026. 
  1. __Tao Morisaki__, Yusuke Ujitoko, and Sota Iwabuchi, "Phase-Shifted Multi-point Low-Frequency Vibrations Intensify Perceived Pressure in Ultrasound Midair Haptics," Eurohaptics 2026, Work-in-Progress, PS36, 2p, July 6-9, 2026. 
  2. Koichi Kato, __Tao Morisaki__, Shun Suzuki, Yasutoshi Makino, and Hiroyuki Shinoda, “Perceivable Minimum Shift of Ultrasound Tactile Stimulus Position on a Fingerpad,” Proc. of SICE Annual Conference 2024, pp. 1051-1053, Aug. 28-30, 2024.
  1. Koichi Kato, __Tao Morisaki__, Shun Suzuki, Yasutoshi Makino, and Hiroyuki Shinoda, "Edge shape sensation presented in a noncontact manner using airborne ultrasound," Asia Haptics 2024, Sunway, Malaysia, Oct. 28-30, 2024.
